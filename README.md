@@ -3,5 +3,5 @@ ApkProtector Premium is the protector and obfuscator of Android applications. It
 
 
 ### 📷 SCREENSHOTS
-<img src="Screenshots/Functions.jpeg" width=600 align="center">
-<img src="Screenshots/Sign.jpeg" width=600 align="center">
+<img src="Screenshots/Functions.jpeg" width=400 align="center">
+<img src="Screenshots/Sign.jpeg" width=400 align="center">
