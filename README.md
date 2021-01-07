@@ -33,7 +33,7 @@ ApkProtector Premium is the protector and obfuscator of Android applications. It
 
 1. Download APK & install it
 
-To learn more please watch this video: https://youtu.be/8JHCzasirHI
+To learn more please watch this video (To see this video you need to subscribe first and send me your e-mail address in https://t.me/ctoslab): https://youtu.be/8JHCzasirHI
 
 ### 💰 Donate
 
